@@ -8,6 +8,9 @@ For installing Dependancies
 ### `npm install`
 Runs the app in the development mode.
 ### `node app.js`
+
+
+For security purposes, I have not included my MongoDB Atlas account details (such as the connection string with username and password) in this repository. To run this project locally or in your own environment
   
 ![Screenshot 2024-09-30 102710](https://github.com/user-attachments/assets/dc16b58d-0e0f-4776-a3a6-0a20eaa30340)
 ![Screenshot (89)](https://github.com/user-attachments/assets/4d020134-d5ca-472e-b4e5-a4717343d726)
